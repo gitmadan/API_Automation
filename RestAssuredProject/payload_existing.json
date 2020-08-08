@@ -1,0 +1,20 @@
+{
+  "customerFirstName": "Deepak",
+  "customerLastName": "Pahuja",
+  "accountID": "Dpahuja",
+  "id": "{{id}}",
+  "address": [
+    {
+      "houseno": "123",
+      "sector": "23",
+      "city": "Gurgaon",
+      "state": "Haryana"
+    },
+    {
+      "houseno": "123",
+      "sector": "24",
+      "city": "Delhi",
+      "state": "Delhi"
+    }
+  ]
+}
